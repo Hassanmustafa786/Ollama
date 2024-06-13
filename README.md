@@ -19,7 +19,7 @@ This repository showcases my experience with downloading and running three model
 
 Before running the models, ensure you have the following installed:
 
-- Python 3.8+
+- Python 3.10.0
 - Necessary libraries listed in `requirements.txt`
 
 ## Installation
@@ -27,8 +27,7 @@ Before running the models, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/Hassanmustafa786/Ollama.git
     ```
 
 2. Create a virtual environment and activate it:
