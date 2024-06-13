@@ -19,6 +19,8 @@ This repository showcases my experience with downloading and running three model
 
 Before running the models, ensure you have the following installed:
 
+- Download the Ollama.
+- Pull Llama3, Openchat, Gemma.
 - Python 3.10.0
 - Necessary libraries listed in `requirements.txt`
 
